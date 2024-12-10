@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET 9\\CSharp13Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B109BD-A29E-49BC-AF8A-795D6206141D}|CSharp13Practise\\CSharp13Practise.csproj|c:\\.net 9\\csharp13practise\\csharp13practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B109BD-A29E-49BC-AF8A-795D6206141D}|CSharp13Practise\\CSharp13Practise.csproj|solutionrelative:csharp13practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NET 9\\CSharp13Practise\\CSharp13Practise\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp13Practise\\Program.cs",
+              "ToolTip": "C:\\.NET 9\\CSharp13Practise\\CSharp13Practise\\Program.cs",
+              "RelativeToolTip": "CSharp13Practise\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0cAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:49:13.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

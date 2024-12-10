@@ -1,0 +1,14 @@
+C:\.NET 9\CSharp13Practise\CSharp13Practise\bin\Debug\net9.0\CSharp13Practise.exe
+C:\.NET 9\CSharp13Practise\CSharp13Practise\bin\Debug\net9.0\CSharp13Practise.deps.json
+C:\.NET 9\CSharp13Practise\CSharp13Practise\bin\Debug\net9.0\CSharp13Practise.runtimeconfig.json
+C:\.NET 9\CSharp13Practise\CSharp13Practise\bin\Debug\net9.0\CSharp13Practise.dll
+C:\.NET 9\CSharp13Practise\CSharp13Practise\bin\Debug\net9.0\CSharp13Practise.pdb
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.AssemblyInfoInputs.cache
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.AssemblyInfo.cs
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.csproj.CoreCompileInputs.cache
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.dll
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\refint\CSharp13Practise.dll
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.pdb
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\CSharp13Practise.genruntimeconfig.cache
+C:\.NET 9\CSharp13Practise\CSharp13Practise\obj\Debug\net9.0\ref\CSharp13Practise.dll
